@@ -1,4 +1,4 @@
-# Useless comment.
+# I've updated this comment.
 
 def comparison_demo(num1, num2):
     """
